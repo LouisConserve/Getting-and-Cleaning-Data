@@ -1,5 +1,5 @@
-### Getting-and-Cleaning-Data
-Coursera Project 2
+# Getting-and-Cleaning-Data
+###Coursera Project 2
 =================================
 
 ##Instructions for project
