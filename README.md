@@ -32,12 +32,12 @@ You should create one R script called run_analysis.R that does the following.
  
 - Library plyr and knitr must be installed prior to run the script.              
 
-## Project End results
+## Project end results
 
 - See the details in the comments in`run_analysis.R`;
 
 - The final tidy data is in `tidydata.txt`;
 
-- The codebok will provide the descriptions of the variables in the data frame prouduced by this project;
+- The 'codebok.Rmd' produced will provide the descriptions of the variables in the data frame prouduced by this project.
 
 
