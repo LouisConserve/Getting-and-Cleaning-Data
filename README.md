@@ -24,21 +24,21 @@ You should create one R script called run_analysis.R that does the following.
 
 ## Tools needed to produce this project
 
-- This script "run_analysis.R" prepare a tidy data that can be used for later analysis.                     
+- This script "run_analysis.R" prepare a tidy data that can be used for later analysis;                     
 
-- Data can be download directly at: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip   
+- Data can be download directly at: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip ; 
 
-- Download and unzip the zip file in your working directory                                
+- Download and unzip the zip file in your working directory;                                
  
-- Library plyr and knitr must be installed prior to run the cript               
+- Library plyr and knitr must be installed prior to run the script.              
 
 ##Steps to produce this project
 
-- Dee the details in the comments in`run_analysis.R`.
+- See the details in the comments in`run_analysis.R`;
 
-- The final tidy data is in `tidydata.txt`.
+- The final tidy data is in `tidydata.txt`;
 
-- The codebok will provide the descriptions of the variables in the data frame prouduced by this project.
+- The codebok will provide the descriptions of the variables in the data frame prouduced by this project;
 
 -  Open Rstudio to open R  Markdown file  `run_analysis.Rmd` to build the Project  , `codebook.md` and 
   `tidydata.txt` will be produced.
